@@ -1,4 +1,4 @@
-# Surviving-the-Odds
+# Surviving-the-Odds: Visualization and Analyzations of Winning Patterns on Game Show Survivor
 
 ## By: Victoria Yee, Annie Cheng, Ava Shafran, Isabella Woulfe, Jade Nakama, Jennica Lee, Naomi Suzuki, Otilia Olson, Shaina Dulles, & Sydney Tomsick
 
